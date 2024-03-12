@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/badger/helloworld.git"
+    "url": "git+https://github.com/lmessmer/helloworld.git"
   },
   "keywords": [
     "node",
